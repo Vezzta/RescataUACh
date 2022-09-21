@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Rescata UACh</string>
+    <string name="btnDesconectar">DESCONECTAR</string>
+    <string name="txtModo">MODO:</string>
+    <string name="txtVersion">1.0a\t</string>
+    <string name="strBanner">Banner</string>
+    <string name="txtPAP">\tPAP</string>
+    <string name="txtPresion">0</string>
+    <string name="btnCPap">C</string>
+    <string name="btnBiPap">Bi</string>
+    <string name="btnOxi">Oximetría</string>
+    <string name="btnPrincipal">Principal</string>
+    <string name="btnPresion">Presión</string>
+    <string name="strControlPresion">Control de Presión:</string>
+    <string name="strHipoxemia">Hipoxemia</string>
+    <string name="Hipercapnia">Hipercapnia</string>
+    <string name="txtDispVinc">Dispositivos Vinculados</string>
+    <string name="txtPreHin">0 - 30</string>
+
+</resources>
